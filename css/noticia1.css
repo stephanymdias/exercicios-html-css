@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background-color: #f3f3f3;
+}
+
+.container{
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+}
+ 
+.container .title{
+    color: #333;
+    font-size: 24px;
+}
+
+.container .author{
+    color: #666;
+    font-size: 14px;
+}
+
+.container .content{
+    color: #444;
+    font-size: 16px;
+}
+
+.container .image{
+    width: 100%;
+}
+
